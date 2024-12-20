@@ -1,0 +1,17 @@
+List,Name
+T Cell,CD3D
+T Cell,CD3E
+T Cell,CD4
+B Cell,CD79A
+B Cell,CD79B
+B Cell,CD19
+Monocyte,CD14
+Endothelial Cell,VWF
+Endothelial Cell,CDH5
+Endothelial Cell,ENG
+Epithelial Cell,CDH1
+Epithelial Cell,MUC6
+Epithelial Cell,MUC1
+Fibroblast,ACTA2
+Fibroblast,COL1A1
+Fibroblast,COL1A2
